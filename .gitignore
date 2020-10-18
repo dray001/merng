@@ -1,0 +1,3 @@
+# this files or folders below won't be pushed to github
+node_modules
+config.js
